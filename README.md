@@ -1,8 +1,8 @@
 # Hi, I am Sunaina
 
  **Graduate IT Student in the US | Data Analytics**
- SQL • Python • Excel • Power BI • Tableau • Data Modeling
- Actively seeking **Data Analytics Internship opportunities**
+ SQL • Python • Excel • Power BI • Tableau • Data Modeling.
+ Actively seeking **Data Analytics/Scientist Internship opportunities**
 ---
 
 ## About Me
