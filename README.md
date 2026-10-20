@@ -19,5 +19,5 @@ I am a Master’s student in Information Technology. My coursework includes appl
 ## Let’s connect
 
 * GitHub: [https://github.com/sagarw16-dev](https://github.com/sagarw16-dev)
-* LinkedIn: [https://www.linkedin.com/in/sunaina-agarwal-5677b432a/](https://www.linkedin.com/in/sagarw16/)
+* LinkedIn: https://www.linkedin.com/in/sagarw16/
 ---
